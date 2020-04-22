@@ -1,0 +1,16 @@
+.label-header {
+  font-size: 13px !important;
+  font-weight: 500 !important;
+}
+
+input {
+  font-family: FontAwesome;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+  border: 1px solid #81BCFB;
+  padding: 10px;
+  border-radius: 5px;
+}
